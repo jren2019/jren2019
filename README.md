@@ -7,5 +7,4 @@
 <a href="https://example.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jren2019&theme=dracula" width="100%" /></a>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=12145006662&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12145006662&cover_image=true&theme=novatorem" width="100%" /></a>
-
-<a href="https://www.buymeacoffee.com/jren" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" width="100%"></a>
+<!--<a href="https://www.buymeacoffee.com/jren" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" width="100%"></a>-->
